@@ -1,0 +1,3 @@
+com\heima\article\controller\v1\ArticleHomeControllerTest.class
+com\heima\article\service\impl\ApArticleServiceImplTest.class
+com\heima\article\test\ArticleFreemarkerTest.class

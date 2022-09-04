@@ -1,0 +1,5 @@
+com\heima\common\config\Swagger2Configuration.class
+com\heima\common\config\SwaggerConfiguration.class
+com\heima\common\constants\ArticleConstants.class
+com\heima\common\exception\CustomException.class
+com\heima\common\exception\ExceptionCatch.class
